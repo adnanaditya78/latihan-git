@@ -1,1 +1,5 @@
 .env
+
+/javascript
+/javascript/bootstrap.js
+/javascript/*.js
